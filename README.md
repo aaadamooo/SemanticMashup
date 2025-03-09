@@ -11,3 +11,6 @@ A Jupyter Notebook Python script that retrieves entity data (logos, flags, abstr
 ## Usage
 1. Run the notebook form colab and enter an entity name (e.g., `Volkswagen_Golf`).
 2. The script generates an HTML file with the entity name as the filename.
+
+## Sample output
+![Sample output](sample.png)
